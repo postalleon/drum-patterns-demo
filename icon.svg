@@ -1,1 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="108" fill="#12161d"/><circle cx="256" cy="256" r="150" fill="#e7a63a"/><circle cx="256" cy="256" r="112" fill="#f8f1e5"/><path d="M106 256h300M256 106v300" stroke="#12161d" stroke-width="26"/><circle cx="256" cy="256" r="25" fill="#e7a63a"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Ударная установка">
+  <defs>
+    <mask id="kick-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+      <rect width="64" height="64" fill="white"/>
+      <circle cx="32" cy="46" r="14.5" fill="black"/>
+    </mask>
+  </defs>
+  <g stroke="#e7a63a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.1505504,0,0,1.1505504,-4.8274382,-9.1459406)">
+    <g transform="matrix(1.0654789,0,0,1.0654789,-0.21942135,-3.2923882)">
+      <g mask="url(#kick-mask)">
+        <path d="M 14,24.214041 V 35.5"/>
+        <path d="M 14,50.119164 V 56 c 0,2.666667 1.333333,4 4,4 h 14"/>
+        <ellipse cx="14" cy="22" rx="9" ry="2" transform="rotate(10,14,22)"/>
+        <ellipse cx="14" cy="38" rx="8" ry="2.5"/>
+        <path d="m 6,38 v 9.6 a 8,2.5 0 0 0 16,0 V 38"/>
+      </g>
+      <g mask="url(#kick-mask)">
+        <path d="M 49.523404,20.463929 V 24.92882"/>
+        <path d="m 49.523404,27.963929 v 7.1"/>
+        <ellipse cx="49.523399" cy="26.46393" rx="6" ry="1.5"/>
+        <path d="m 49.523404,44 v 12 q 0,4 -4,4 h -17"/>
+        <ellipse cx="48" cy="38" rx="7" ry="2"/>
+        <path d="m 41,38 v 4 a 7,2 0 0 0 14,0 v -4"/>
+        <path style="fill:#e7a63a;stroke:#e7a63a;stroke-width:1.40796;stroke-linecap:round" d="m 38.545952,16.634843 2.952585,9.260383"/>
+        <path style="fill:#e7a63a;stroke:#e7a63a;stroke-width:1.40796;stroke-linecap:round" d="m 22.575145,20.213735 6.173589,-7.694618"/>
+      </g>
+      <g mask="url(#kick-mask)" transform="translate(-1.7382985)">
+        <path d="M 34,23 V 33"/>
+        <circle cx="34" cy="19" r="4" style="stroke-width:1.50015;stroke-dasharray:none"/>
+        <path d="M 34,27 28.707876,25.476293 25.58157,19.334182"/>
+        <path d="m 34,27 5.113179,0.399947 3.334183,-3.547413"/>
+      </g>
+      <circle cx="32" cy="46" r="14"/>
+      <circle cx="37" cy="51" r="3.5"/>
+    </g>
+  </g>
+</svg>
